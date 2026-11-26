@@ -58,7 +58,7 @@ gta-vi-descriptive-analytics/
 
 1. Kloning repositori ini ke komputer lokal Anda:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/sutarozu/gta-vi-descriptive-analytics.git
    cd gta-vi-descriptive-analytics
    ```
 2. Buat dan aktifkan _virtual environment_, lalu instal seluruh pustaka yang diperlukan:
